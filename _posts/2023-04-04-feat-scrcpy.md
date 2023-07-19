@@ -3,7 +3,7 @@ layout: post
 title: 안드로이드 무선 디버깅 (feat. scrcpy)
 date: '2023-04-04T15:47:00.001+09:00'
 author: MJ
-tags:
+tags: [scrcpy]
 modified_time: '2023-04-04T15:47:06.821+09:00'
 ---
  앱을 개발할때 에뮬레이터가 아닌 실제 디바이스에서 디버깅과 같이 테스트해야 할 상황이 있다.

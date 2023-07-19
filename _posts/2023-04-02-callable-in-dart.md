@@ -3,7 +3,7 @@ layout: post
 title: Callable 클래스 컨셉 in Dart
 date: '2023-04-02T14:07:00.001+09:00'
 author: MJ
-tags:
+tags: [dart, flutter]
 modified_time: '2023-04-02T14:07:24.645+09:00'
 ---
 Dart shelf 패키지를 이용하여 웹서버를 개발 하는 와중에 궁금증이 생겼다.

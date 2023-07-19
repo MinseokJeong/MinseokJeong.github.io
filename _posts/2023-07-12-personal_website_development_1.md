@@ -3,7 +3,7 @@ layout: post
 title: '개인용 웹사이트 개발기 #1'
 date: '2023-07-12T18:23:00.004+09:00'
 author: MJ
-tags:
+tags: [flutter, dart]
 modified_time: '2023-07-13T00:35:17.580+09:00'
 ---
 

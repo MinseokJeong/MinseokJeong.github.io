@@ -3,7 +3,6 @@ layout: post
 title: START BLOGGER
 date: '2022-10-22T03:10:00.000+09:00'
 author: MJ
-tags:
 modified_time: '2022-10-22T03:10:00.325+09:00'
 ---
 

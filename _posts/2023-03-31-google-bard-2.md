@@ -3,7 +3,7 @@ layout: post
 title: 'Google Bard 탐방기 (구글 바드) #2'
 date: '2023-03-31T18:05:00.002+09:00'
 author: MJ
-tags:
+tags: [google bard, bard]
 modified_time: '2023-03-31T18:05:17.596+09:00'
 ---
 

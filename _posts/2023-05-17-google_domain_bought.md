@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '웹사이트 도메인 구매기 #구글도메인'
+title: '웹사이트 도메인 구매기'
 date: '2023-05-17T23:30:00.003+09:00'
 author: MJ
-tags:
+tags: [구글도메인, google domain]
 modified_time: '2023-05-17T23:30:22.419+09:00'
 ---
 

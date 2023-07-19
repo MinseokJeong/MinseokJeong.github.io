@@ -3,7 +3,7 @@ layout: post
 title: '상상도 못한 유명인에게 연락이 닿을수 있다면? - #1'
 date: '2022-10-27T15:59:00.001+09:00'
 author: MJ
-tags:
+tags: [idea]
 modified_time: '2022-10-27T15:59:43.973+09:00'
 ---
 

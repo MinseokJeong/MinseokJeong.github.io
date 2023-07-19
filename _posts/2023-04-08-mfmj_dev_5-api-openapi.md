@@ -1,11 +1,9 @@
 ---
 layout: post
-title: '"돈의 흐름" 웹사이트 개발기 #5 (#현재환율API #한국수출입은행 #OpenAPI)'
+title: '"돈의 흐름" 웹사이트 개발기 #5'
 date: '2023-04-08T18:06:00.000+09:00'
 author: MJ
-tags:
-- Dev
-- SideProject
+tags: [현재환율API, 한국수출입은행, OpenAPI, dart, flutter, Dev, SideProject]
 modified_time: '2023-04-22T19:17:49.281+09:00'
 ---
 

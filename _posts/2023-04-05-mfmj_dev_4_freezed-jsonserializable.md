@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '"돈의 흐름" 웹사이트 개발기 #4 (#freezed #json_serializable)'
+title: '"돈의 흐름" 웹사이트 개발기 #4'
 date: '2023-04-05T18:07:00.002+09:00'
 author: MJ
-tags:
+tags: [freezed, json_serializable, dart, flutter]
 modified_time: '2023-04-05T18:07:37.938+09:00'
 ---
  금가격을 추가 했으니, 석유가격도 서버에 저장하는 기능을 구현해보자.

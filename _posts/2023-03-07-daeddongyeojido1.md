@@ -3,7 +3,7 @@ layout: post
 title: '급똥 공공화장실 지도 앱 개발기 #1 (대똥여지도)'
 date: '2023-03-07T19:24:00.001+09:00'
 author: MJ
-tags:
+tags: [flutter, dart, naver map]
 modified_time: '2023-03-07T19:31:04.962+09:00'
 ---
 
