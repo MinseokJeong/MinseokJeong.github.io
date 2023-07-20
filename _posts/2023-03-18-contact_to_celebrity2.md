@@ -5,6 +5,7 @@ date: '2023-03-18T19:53:00.010+09:00'
 author: MJ
 tags: [idea]
 modified_time: '2023-03-18T19:56:03.477+09:00'
+category: idea
 ---
 실제 구현을 위해 두가지 방법이 있다.
 

@@ -5,6 +5,7 @@ date: '2023-03-31T18:05:00.002+09:00'
 author: MJ
 tags: [google bard, bard]
 modified_time: '2023-03-31T18:05:17.596+09:00'
+category: dev
 ---
 
 사흘전 이메일로 이제 내차례라고 메일이 날라왔다.

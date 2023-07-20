@@ -7,13 +7,45 @@ entries:
       - title: minseok.jeong92@gmail.com
       - title: "<a href='https://minseokjeong.com'>portfolio website</a> and <a href='https://github.com/MinseokJeong'>github repo</a>"
 
-  - title: Recent posts
+  - title: All posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: Show more...
       show_more_url: archive.html
-      
+
+  - title: Dev
+    post_list:
+      category: dev
+      show_more: true
+      limit: 3
+      show_more_text: Show more...
+      show_more_url: example2-archive.html      
+
+  - title: Book
+    post_list:
+      category: book
+      show_more: true
+      limit: 3
+      show_more_text: Show more...
+      show_more_url: example2-archive.html      
+
+  - title: Life
+    post_list:
+      category: life
+      show_more: true
+      limit: 3
+      show_more_text: Show more...
+      show_more_url: example2-archive.html      
+
+  - title: Idea
+    post_list:
+      category: idea
+      show_more: true
+      limit: 3
+      show_more_text: Show more...
+      show_more_url: example2-archive.html      
+
 
   # - title: posts by category
   #   post_list:

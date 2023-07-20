@@ -5,6 +5,7 @@ date: '2023-03-12T17:50:00.000+09:00'
 author: MJ
 tags: [flutter, dart, naver map]
 modified_time: '2023-03-12T17:50:43.495+09:00'
+category: dev
 ---
 현재 모의 위치(세종시립도서관) 중심으로 반경 1km이내의 화장실을 화면상에 나타 냈다. Flutter naver map 관련해서는
 

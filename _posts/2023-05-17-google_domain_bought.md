@@ -5,6 +5,7 @@ date: '2023-05-17T23:30:00.003+09:00'
 author: MJ
 tags: [구글도메인, google domain]
 modified_time: '2023-05-17T23:30:22.419+09:00'
+category: dev
 ---
 
 개인 웹사이트를 구축중에 있다가,

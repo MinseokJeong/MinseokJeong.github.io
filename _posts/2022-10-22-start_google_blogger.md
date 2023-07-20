@@ -4,6 +4,7 @@ title: START BLOGGER
 date: '2022-10-22T03:10:00.000+09:00'
 author: MJ
 modified_time: '2022-10-22T03:10:00.325+09:00'
+category: life
 ---
 
 복권 당첨 모바일 앱 개발 진행중!  

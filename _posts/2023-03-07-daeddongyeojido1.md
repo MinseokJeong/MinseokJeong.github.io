@@ -5,6 +5,7 @@ date: '2023-03-07T19:24:00.001+09:00'
 author: MJ
 tags: [flutter, dart, naver map]
 modified_time: '2023-03-07T19:31:04.962+09:00'
+category: dev
 ---
 
   

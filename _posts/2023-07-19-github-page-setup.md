@@ -2,6 +2,7 @@
 layout: post
 title:  "깃허브 페이지 시작"
 date:   2023-07-19 19:52:44 +0900
+category: dev
 ---
 
 [구글 블로그](https://www.blogger.com/)에서 [깃허브 페이지](https://pages.github.com/)로

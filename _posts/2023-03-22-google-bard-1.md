@@ -5,6 +5,7 @@ date: '2023-03-22T13:48:00.002+09:00'
 author: MJ
 tags: [google bard, bard]
 modified_time: '2023-03-22T13:48:36.510+09:00'
+category: dev
 ---
 
 오늘 구글 공식 블로그에 Bard 를 "Try Bard and share your feedback" 이라는 [블로그 글](https://blog.google/technology/ai/try-bard/)이 올라 왔다.

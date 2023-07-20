@@ -5,6 +5,7 @@ date: '2022-10-27T15:59:00.001+09:00'
 author: MJ
 tags: [idea]
 modified_time: '2022-10-27T15:59:43.973+09:00'
+category: idea
 ---
 
 팀페리스 저서 '나는 4시간만 일한다' 책을 읽는중

@@ -2,6 +2,7 @@
 layout: post
 title:  "구글플레이스토어 앱등록용 개인정보처리방침 만들기"
 date:   2023-07-20 15:00:00 +0900
+category: dev
 ---
 
 안드로이드 앱을 개발하고나서, play console을 이용하여 앱을 등록할때,
