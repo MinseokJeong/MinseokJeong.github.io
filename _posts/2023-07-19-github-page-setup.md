@@ -84,10 +84,12 @@ html태그등 완전하게 markdown 형식으로 변환 되어있지 않다.
 
 [html to markdown converter](https://codebeautify.org/html-to-markdown)를 이용하여 html 태그들을 변환 하였다.  
 
-이미지 파일들은 아래의 터미널에서 curl 명령어를 이용하여 다운받는다.
-```shell
-curl "{이미지파일주소}" -o xxx.png
-```
+이미지 파일들은 아래의 터미널에서 curl 명령어를 이용하여 다운받는다.  
+
+```curl "{이미지파일주소}" -o xxx.png```  
+
+![terminal curl example](/assets/images/2023/07/19/3.jpeg)
+\[터미널에서 curl 명령어를 이용해 이미지를 다운 받는 사진\]
 
 그렇게 노가다 작업을 통해서 임포트한 블로거 포스트들을 마크다운 형태로, 이미지파일들도 프로젝트 assets 폴더 내에 저장후 링크들도 assets폴더내의 이미지 파일을 가리키도록 노가다 작업을 진행했다.
 
@@ -104,6 +106,10 @@ curl "{이미지파일주소}" -o xxx.png
 깃허브 페이지 설정 관련 문서를 꼼꼼히 읽지않고 넘어가다가... 한참을 해맨후에 remote_theme 저거 하나때문에  
 
 거진 2~3시간을 허비 하였다....  
+
+
+![](/assets/images/2023/07/19/4.jpeg)
+\[이미지에서 보여주듯이 *The no-style-please theme could not be found*\]
 
 하지만 그러는 동안 gem, ruby 관련 version들을 맞추는것,  
 
