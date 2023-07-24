@@ -20,7 +20,7 @@ entries:
       show_more: true
       limit: 3
       show_more_text: Show more...
-      show_more_url: example2-archive.html      
+      show_more_url: archive_dev.html      
 
   - title: Book
     post_list:
@@ -28,7 +28,7 @@ entries:
       show_more: true
       limit: 3
       show_more_text: Show more...
-      show_more_url: example2-archive.html      
+      show_more_url: archive_book.html      
 
   - title: Life
     post_list:
@@ -36,7 +36,7 @@ entries:
       show_more: true
       limit: 3
       show_more_text: Show more...
-      show_more_url: example2-archive.html      
+      show_more_url: archive_life.html      
 
   - title: Idea
     post_list:
@@ -44,15 +44,7 @@ entries:
       show_more: true
       limit: 3
       show_more_text: Show more...
-      show_more_url: example2-archive.html      
-
-
-  # - title: posts by category
-  #   post_list:
-  #     category: example2
-  #     show_more: true
-  #     show_more_text: See more posts...
-  #     show_more_url: example2-archive.html
+      show_more_url: archive_idea.html      
 
   # - title: Flutter Category
   #   post_list:
