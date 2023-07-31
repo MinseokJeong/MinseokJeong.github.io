@@ -318,9 +318,3 @@ totalProtobuffBytes / totalJsonBytes = 0.43
 
 
 ## 결론은 네트워크를 통해 데이터를 전송할때 protobuff 사용을 고려하면 네트워크 트래픽을 줄여 트래픽도 다 돈인데 돈을 아낄수 있으며 더적은 용량으로 보내기때문에 protobuff로 저장된 데이터를 보낸다고 할때 이득이 있겠다.  
-
-```js
-main(void){
-    int a = 0;
-}
-```
