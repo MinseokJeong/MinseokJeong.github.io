@@ -5,7 +5,7 @@ entries:
   - title: About MJ
     entries:
       - title: minseok.jeong92@gmail.com
-      - title: "<a href='https://minseokjeong.com'>portfolio website</a> and <a href='https://github.com/MinseokJeong'>github repo</a>"
+      - title: "<a href='https://mj-porfolio-web.vercel.app/'>portfolio website</a> and <a href='https://github.com/MinseokJeong'>github repo</a>"
 
   - title: All posts
     post_list:
